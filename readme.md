@@ -145,8 +145,6 @@ Estoy muy satisfecha con el resultado, pues he hecho un proyecto acorde a la ele
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
-
-https://creativecommons.org/licenses/?lang=es
+https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 Mayo 2023
