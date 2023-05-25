@@ -35,7 +35,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Medios** (donde se tiene presencia relacionada):
 
 - Github:
-
+-Instagram: https://www.instagram.com/onyria_x/
 
 
 
@@ -70,16 +70,8 @@ Este teaser da paso a un menú en el que aparecen 6 opciones/botones según lo q
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
+Partimos de la propuesta común para crear un proyecto multimedia basado basado en una metodología de UX (User Experience). Debido a que este es mi último año de carrera, he querido hilar esta asignatura con mi TFG, realizando un portfolio que muestre una pequeña parte de mi Trabajo de Fin de Grado.
 
-
-
-### Etapa 1: Ideación de proyecto
-
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
-
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
 
 
 
