@@ -129,7 +129,8 @@ Estoy muy satisfecha con el resultado, pues he hecho un proyecto acorde a la ele
 
 **Artículos y blogs ** 
 
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+- Laura Torrado | Laura Torrado Visual Artist. (s. f.). https://www.lauratorrado.net/
+
 
 **Recursos y materiales audiovisuales:**
 
