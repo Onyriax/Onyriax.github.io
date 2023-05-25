@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : MŌNS
 
-**Web:**   (url github.io)
+**Web:**   https://onyriax.github.io/
 
 **Autor:**  Olha Prokopyk
 
