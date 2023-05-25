@@ -60,7 +60,7 @@ Este teaser da paso a un menú en el que aparecen 6 opciones/botones según lo q
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+https://github.com/Onyriax/Onyriax.github.io/blob/master/menu.png
 
 
 
