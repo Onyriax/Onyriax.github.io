@@ -94,10 +94,16 @@ He querido realizar este proyecto porque me siento muy orgullosa de mi TFG y qui
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
 - Juego. He realizado un Quiz de 4 preguntas, en el que si aciertas más de dos, ganas, y si fallas 2 o más, pierdes.
-- Video. El vídeo, como he dicho anteriormente, es una grabación que he realizado de la pantalla de mi ordenador, y al que le he puesto música de fondo
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- El vídeo, como he dicho anteriormente, es una grabación que he realizado de la pantalla de mi ordenador, y al que le he puesto música de fondo
+- Menús y elementos de navegación (botones con imagen y sonido)
+- Música de fondo y efectos de sonido
+
+
+Menús y elementos de navegación (botones con sonidos)
+Quiz (juego con puntuación), en el que a modo de pequeño juego provocamos interés en el espectador para que visite la galería y escuche los podcast.
+Apartado de extras donde él mismo podrá desplazarse a lo largo de la mesa de trabajo para descubrir qué materiales uso.
+Vídeos del proceso de dos obras.
+Música de fondo y audios en forma de podcast.
 
 
 
