@@ -35,11 +35,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Medios** (donde se tiene presencia relacionada):
 
 - Github:
-- Twitter
-- Instagram
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+
 
 # 2. Memoria del proyecto 
 
@@ -47,7 +45,14 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+El proyecto comienza con Teaser: se trata de una imagen (que también es la portada y contraportada de mi fotolibro) que se desliza hasta cuadrar en la pantalla totalmente cuadrada, donde el título y mi nombre aparecerán centrados. Hay varios botones para poner música, quitarla o regular el sonido de la misma, y en la esquina inferior derecha aparece un Loop de una cámara Nikon D7500 (que es la que uso para realizar las fotografías), que da un giro y cuando "aterriza" se dispara el flash.
+Este teaser da paso a un menú en el que aparecen 6 opciones/botones según lo que quieras hacer: 
+-La autora: si pinchas aquí aparecerá una pantalla en la que hablo un poco sobre mí y sobre el proyecto.
+-La galería: donde aparece una pequeña muestra de 4 imágenes de mi proyecto.
+-Otras obras: donde podrás ver trabajos que he realizado anteriormente
+-Quiz!: donde podrás realizar un pequeño cuestionario que sabrás responder si has leído sobre mí y has visto la galería.
+-Vídeo editando una foto: aquí se muestra un vídeo que he realizado grabando la pantalla de mi ordenador para mostrar cómo edito y maqueto las imágenes de mi fotolibro.
+-Créditos: Cierre del proyecto. Aparece el nombre de la asignatura, el año, grupo, y mi nombre como autora del proyecto y las imágenes.
 
 
 
@@ -80,13 +85,13 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+He querido realizar este proyecto porque me siento muy orgullosa de mi TFG y quiero mostrarlo a mis compañeros.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a estudiantes de bellas artes, o un público al que le guste la fotografía.
 
 
 
@@ -96,8 +101,8 @@ Este  proyecto es interesante porque ...
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
+- Juego. He realizado un Quiz de 4 preguntas, en el que si aciertas más de dos, ganas, y si fallas 2 o más, pierdes.
+- Video. El vídeo, como he dicho anteriormente, es una grabación que he realizado de la pantalla de mi ordenador, y al que le he puesto música de fondo
 - Instrucciones y ayuda al usuario 
 - Menús y elementos de navegación (botones)
 - etc.
@@ -106,15 +111,15 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Creo que todo funciona bien.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
 
 
+Estoy muy satisfecha con el resultado, pues he hecho un proyecto acorde a la elegancia de mi fotolibro, utilizando colores de escala de grises, blanco y negro (tanto para los botones, como el texto y el fondo del proyecto). En el futuro me gustaría añadir más imágenes, ya que solamente he insertado cuatro.
 
 
 
