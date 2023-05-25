@@ -14,7 +14,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Olha Prokopyk
 
-**Resumen** : Este proyecto busca mostrar mi TFG, basado en un fotolibro que compara Sierra Nevada con el cuerpo humano, haciendo un recorrido poético a través del paso del tiempo y las estaciones.
+**Resumen** : Este proyecto busca mostrar una pequeña parte de mi TFG, basado en un fotolibro que compara Sierra Nevada con el cuerpo humano, haciendo un recorrido poético a través del paso del tiempo y las estaciones.
 
 **Estilo/género:**  Portfolio
 
