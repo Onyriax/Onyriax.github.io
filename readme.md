@@ -47,12 +47,12 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 El proyecto comienza con Teaser: se trata de una imagen (que también es la portada y contraportada de mi fotolibro) que se desliza hasta cuadrar en la pantalla totalmente cuadrada, donde el título y mi nombre aparecerán centrados. Hay varios botones para poner música, quitarla o regular el sonido de la misma, y en la esquina inferior derecha aparece un Loop de una cámara Nikon D7500 (que es la que uso para realizar las fotografías), que da un giro y cuando "aterriza" se dispara el flash.
 Este teaser da paso a un menú en el que aparecen 6 opciones/botones según lo que quieras hacer: 
--La autora: si pinchas aquí aparecerá una pantalla en la que hablo un poco sobre mí y sobre el proyecto.
--La galería: donde aparece una pequeña muestra de 4 imágenes de mi proyecto.
--Otras obras: donde podrás ver trabajos que he realizado anteriormente
--Quiz!: donde podrás realizar un pequeño cuestionario que sabrás responder si has leído sobre mí y has visto la galería.
--Vídeo editando una foto: aquí se muestra un vídeo que he realizado grabando la pantalla de mi ordenador para mostrar cómo edito y maqueto las imágenes de mi fotolibro.
--Créditos: Cierre del proyecto. Aparece el nombre de la asignatura, el año, grupo, y mi nombre como autora del proyecto y las imágenes.
+- La autora: si pinchas aquí aparecerá una pantalla en la que hablo un poco sobre mí y sobre el proyecto.
+- La galería: donde aparece una pequeña muestra de 4 imágenes de mi proyecto.
+- Otras obras: donde podrás ver trabajos que he realizado anteriormente
+- Quiz!: donde podrás realizar un pequeño cuestionario que sabrás responder si has leído sobre mí y has visto la galería.
+- Vídeo editando una foto: aquí se muestra un vídeo que he realizado grabando la pantalla de mi ordenador para mostrar cómo edito y maqueto las imágenes de mi fotolibro.
+- Créditos: Cierre del proyecto. Aparece el nombre de la asignatura, el año, grupo, y mi nombre como autora del proyecto y las imágenes.
 
 
 
@@ -134,9 +134,9 @@ Estoy muy satisfecha con el resultado, pues he hecho un proyecto acorde a la ele
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica: La música y los efectos de sonido que he utilizado han sido extraídos de la página pixabay.com, excepto el sonido de los botones, que lo grabé yo misma. 
+* Imágenes: Todas las imágenes que aparecen en el proyecto han sido tomadas por mí, excepto dos imágenes del Quiz que son de Sebastiao Salgado y Ugo Mellone.
+* Tipografía: He utilizado una tipografía Arial para todos los textos que aparecen.
 
 **Herramientas utilizadas**
 
