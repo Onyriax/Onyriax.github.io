@@ -18,9 +18,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Portfolio
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : 
+![menu](https://github.com/Onyriax/Onyriax.github.io/blob/master/Captura.JPG)
 
-(insertar imágenes a resolucion de 100px alto)
 
 **Resolución:** 800x800px tamaño fijo
 
