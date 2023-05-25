@@ -22,9 +22,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x800px tamaño fijo
 
-**Probado en:**   Google Chrome / MS Edge...
+**Probado en:**   Google Chrome / MS Edge
 
 **Tamaño proyecto:** 14MB 
 
@@ -133,7 +133,9 @@ Estoy muy satisfecha con el resultado, pues he hecho un proyecto acorde a la ele
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Adobe Photoshop CC 2020
+- Adobe Premiere CC 2020 14.9
+- Audacity 3.1.3
 
 
 
