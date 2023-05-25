@@ -32,10 +32,10 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Fecha** : 25/05/2023
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios**:
 
-- Github:
--Instagram: https://www.instagram.com/onyria_x/
+- Github: https://github.com/Onyriax
+- Instagram: https://www.instagram.com/onyria_x/
 
 
 
